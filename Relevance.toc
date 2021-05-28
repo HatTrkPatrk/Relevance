@@ -1,0 +1,7 @@
+## Interface: 20501
+## Version: 1.0
+## Title: Relevance
+## Notes: Filters messages from global chat channels when they aren't relevant to that channel.
+## Author: Htp@Windseeker
+
+Relevance.lua
